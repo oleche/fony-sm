@@ -1,0 +1,19 @@
+{
+    "name": "geekcow/fony-sm",
+    "description": "State Machine module compatible with Fony API Framework",
+    "type": "library",
+    "license": "Apache-2.0",
+    "version": "0.0.1",
+    "authors": [
+        {
+            "name": "Oscar Leche",
+            "email": "oleche@geekcowsd.com"
+        }
+    ],
+    "autoload": {
+        "psr-4" : {
+            "Geekcow\\FonySM\\" : "src/"
+        }
+    },
+    "require": {}
+}
